@@ -5,7 +5,7 @@
 #### 抖音、淘宝、快手、饿了么、京东、小红书、拼多多、天猫、得物 等各类app的数据爬虫接口
 #### 如果没有你需要的数据接口，可联系我们进行定制
 #### 以下为我们的联系方式
-#### QQ：891363147
+#### QQ：6976301
 #### 微信：dever1024
 #### telegram：sprogramer
 #### 邮箱：dataapi@qq.com
@@ -13,7 +13,7 @@
 ![wechat_qrcode](https://user-images.githubusercontent.com/124868171/217749002-071baa8e-11ea-4541-ba15-416729808710.png)
 
 ## QQ扫码
-![qq_qrcode](https://user-images.githubusercontent.com/124868171/217749038-a8bc48a7-304f-4eee-a4c8-288e0a00eb5c.png)
+![qq_qrcode](https://user-images.githubusercontent.com/124868171/221887286-d7dcaccd-9787-4215-98a5-0577d9a333b5.png)
 
 ## telegram扫码
 ![telegram_qrcode_](https://user-images.githubusercontent.com/124868171/217765139-93a37c37-424b-453a-8642-34d788a1761d.png)
