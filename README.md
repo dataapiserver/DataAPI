@@ -7,7 +7,7 @@
 #### 以下为我们的联系方式
 #### QQ：6976301 
 #### 微信：6976301  
-#### telegram：sprogramer 
+#### telegram：sprogramer  
 #### 邮箱：dataapi@qq.com  
 ## 微信扫码
 ![wechat_qrcode](https://user-images.githubusercontent.com/124868171/217749002-071baa8e-11ea-4541-ba15-416729808710.png)
