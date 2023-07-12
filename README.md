@@ -5,5 +5,5 @@
 # 微信联系请[>>> 点击这里 <<<](http://154.39.250.224/)         
 ![telegram_qrcode](https://user-images.githubusercontent.com/124868171/235883419-99f0f97d-b6c4-47c7-83c2-ec20501eebee.png)
 ## 长期维护，广告未撤，就是有效的
-### ltk算法 sk算法 data算法 sign算法 旋转验证码
+### ltk算法 sk算法 data算法 sign算法 旋转验证码   
  
