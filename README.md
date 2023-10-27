@@ -9,7 +9,7 @@
 # Telegram在线联系（如果没有及时回复，请在聊天窗口留下您的微信号，上线后会微信添加您）    
 ![telegram_qrcode](https://user-images.githubusercontent.com/124868171/235883419-99f0f97d-b6c4-47c7-83c2-ec20501eebee.png)
 ## 长期维护，广告未撤，就是有效的  
-### ltk算法 sk算法 data算法 sign算法 旋转验证码    
+### ltk算法 sk算法 data算法 sign算法 旋转验证码     
    
 #### 得物价格实时更新 dewu newsign 得物数据 得物搜索 得物价格 得物403 得物购买记录  
   
